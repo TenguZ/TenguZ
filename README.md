@@ -1,14 +1,12 @@
-# Hi, I'm TenguZ 👋
-
 # 💫 About Me:
 
-I'm a software developer focused on **web platforms** and **developer tools**.
-Currently building things with TypeScript, and learning Rust on the side.
+I'm a Network IT Apprentice focused on **Linux** and **Network Equipments**.
+Currently creating Bash and PowerShell script while learning local IA
 
 - 🔭 Currently working on: [project-name](https://github.com/username/project-name)
-- 🌱 Currently learning: Rust and systems programming
-- 💬 Ask me about: React, Node.js, and API design
-- 📫 How to reach me: [you@example.com](mailto:you@example.com)
+- 🌱 Currently learning: Zsh & Replication job
+- 💬 Ask me about: Cisco, Linux & Open Source Project
+- 📫 How to reach me: [contactme@tenguz.com](mailto:contactme@tenguz.com)
 
 # 💻 Tech Stack:
 
